@@ -3,6 +3,8 @@
 SpacePyew! is a small shooter for the micro:bit V2 in micro:bit micropython using the 5x5 LED matrix as a screen and optionally the elecfreaks joystick:bit as input device.
 With each hit, the target will be a little bit harder to hit. And it beeps and blinks.
 
+https://user-images.githubusercontent.com/920565/221620164-71e5e233-4ac9-4c82-8ae0-9bf30b56293e.mp4
+
 ## Software Dependencies
 
 SpacePyew! requires the micro:bit V2 micropython runtime from https://github.com/microbit-foundation/micropython-microbit-v2 for the SoundEffect API.
